@@ -1,4 +1,4 @@
-참고문헌 중 데이터 현황
+참고문헌 중 데이터 정보
 6) 서울시 장애인현황 (장애유형별/동별) 통계 - 서울특별시청 복지정책실 복지기획관 장애인자립지원과 제공 : 장애인+현황(장애유형별_동별)_20230523173036.csv
 7) 서울시 주민등록인구 (동별) 통계 - 서울특별시청 디지털정책관 빅데이터담당관 제공 : 주민등록인구_20230527140838.csv
 8) 행정동 위도 / 경돠 좌표 - 오픈소스 데이터 : 행정구역별_위경도_좌표.csv , 행정_법정동 중심좌표_refined.csv
@@ -8,5 +8,9 @@
 12) 서울시 역사마스터 정보 - 서울특별시 도시교통실 교통기획관 미래첨단교통과 제공 : 서울시 역사마스터 정보.csv
 
 기타 정리된 자료
-1) subway_total_2022.csv : 지하철역별 2022년 승차 총 승객수 데이터
-2) metro_
+1) subway_total_2022.csv : 지하철역별 2022년 승차 총 승객수 dataset (aggregate한 결과값)
+2) metro_info_w_coord.csv : 각 지하철역의 장애인 수, 총 하차 수, 장애인 승차율, 역 위치, 인접 동, 인접 동의 장애인 정보
+3) number_ratio_of_disables_by_neighborhood.csv : 동별 장애인 수, 주민 수, 장애인 비율
+4) number_ratio_of_disables_by_neighborhood_w_coord.csv : 3)에 동의 지리 좌표를 추가한 dataset
+5) disabled_facility_information_by_station.csv : 지하철역별로 장애인 승차 건수 정보와 장애인 편의시설 정보를 추가한 dataset
+6) seoul_metro_disabled_info.csv : 각 지하철역의 장애인 수, 총 하차 수, 장애인 승차율, 장애인 편의시설 정보, 역 위치, 인접 동, 인접 동의 장애인 정보 등을 모두 합쳐놓은 포괄적 지하철 dataset
