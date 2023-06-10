@@ -27,3 +27,8 @@ neighborhood_ratio.png: 동별 장애인 거주 비율 (구별 색 표기)
 neighborhood_ratio_wodist.png: 장애인 거주 비율 (거주 비율 색 표기)
 seoulmetro_num.png: 서울시 지하철역 지도에 (점 크기로) 장애인 승객 수 overlay
 seoulmetro_ratio.png: 서울시 지하철역 지도에 (점 크기로) 장애인 승객 비율 overlay
+cor_test_facility.png: 1-T-1-1.png (장애인 승객 비율과 장애인 편의시설 개수 사이의 관계)에 대한 correlation test
+cor_test_region.png: 2-T-1.png (장애인 거주 비율과 인접 지하철역 장애인 승차 비율 사이의 관계)에 대한 correlation test
+lm_summary_region.png: 2-T-1.png (장애인 거주 비율과 인접 지하철역 장애인 승차 비율 사이의 관계)에 대한 linear regression의 summary
+lm_anova_region.png: 2-T-1.png (장애인 거주 비율과 인접 지하철역 장애인 승차 비율 사이의 관계)에 대한 linear regression의 anova
+lm_resid_shapiro.png: 2-T-1.png (장애인 거주 비율과 인접 지하철역 장애인 승차 비율 사이의 관계)에 대한 linear regression의 residual plot에 대한 Shapiro-Wilk Test
